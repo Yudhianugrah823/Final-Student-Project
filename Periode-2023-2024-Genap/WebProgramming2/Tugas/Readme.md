@@ -1,5 +1,5 @@
 # Tugas (Ganti Nama Tugas)
 <ul>
-  <li>Tugas: {Nama Tugas}</li>
-  <li>Nama: {Nama}</li>
+  <li>Tugas: {Latihan TodoApp}</li>
+  <li>Nama: {YudhiAnugrah}</li>
 </ul>
